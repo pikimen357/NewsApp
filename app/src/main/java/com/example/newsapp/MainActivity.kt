@@ -1,4 +1,4 @@
-package com.example.newsapp
+package com.example.newsappp
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
